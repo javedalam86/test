@@ -1,11 +1,3 @@
 FGSD SFSDFSDF changes for commit two
 
-Master change 3 commit
-
-Master change 4 commit
-
-iss226
-this is done branch 226
-iss225
-fixing issues no 225
 
